@@ -1,0 +1,12 @@
+# Ignore the virtual environment folder completely
+.venv/
+
+# Ignore environment variables (Crucial!)
+.env
+
+# Ignore the chatbot file
+src/chatbot.py
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]

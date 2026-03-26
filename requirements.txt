@@ -1,0 +1,7 @@
+supabase
+langchain-huggingface
+langchain-chroma
+python-dotenv
+requests
+Pillow
+sentence-transformers.venev
