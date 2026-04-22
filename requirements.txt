@@ -5,3 +5,9 @@ python-dotenv
 requests
 Pillow
 sentence-transformers.venev
+fastapi
+uvicorn
+httpx
+pydantic-settings
+pydantic
+
